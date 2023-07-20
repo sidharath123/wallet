@@ -1,0 +1,142 @@
+.signup-container {
+    height: 800px;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+   
+    
+  }
+  .signup-container form {
+    width: 400px;
+  }
+  .signUp-text {
+    text-align: center;
+    padding-top: 40px;
+    font-family: "Montserrat";
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+   
+}
+
+  p{
+    color: red;
+    text-align: left;
+  }
+  
+  .welcomeBack-text {
+    font-family: "Montserrat";
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .account-Layout {
+    width: 100%;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: auto;
+    border-radius: 4px;
+    margin-right: auto;
+    background-color: #ffffff;
+    border: 1px solid #147cc8;
+  }
+  
+  .account-text {
+    width: 100%;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  
+  .account-text input {
+    height: 40px;
+    width: 100%;
+  }
+  
+  .passwrodLayout {
+    width: 100%;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    border: 1px solid #147cc8;
+    background-color: #d9d9d9;
+  }
+  
+  input{
+      padding: 0 ;
+  }
+  
+  .password-text{
+      width: 100%;
+      height: 40px;
+      box-sizing: border-box;
+      border-radius: 4px;
+      
+    
+  
+  }
+  .password-text input{
+    height: 40px;
+    width: 100%;
+  
+  }
+  input{
+      padding: 0 8px;
+  
+  }
+  
+  .btnFPass{
+  
+      color: grey;
+      background: none;
+      border: none;
+  }
+  
+  
+  .login-Button{
+      width: 100%;
+      height: 40px;
+      margin-top: 40px;
+      /* margin-right: auto; */
+      /* padding:  150px ; */
+      border-radius: 8px;
+      border: 1px solid #147cc8;
+      background-color:#147CC8;
+      color: #FFFFFF;
+font-family: 'Montserrat';
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: 120%;
+  
+  
+  }
+
+
+  .checkBoxItem{
+margin-left: 450px;
+margin-top: 20px;
+  }
+
+  .terms-condition{
+    text-align: left;
+    margin-top: 12px;
+}
+.terms-condition span{
+      color: white;
+
+  }
+  @media  screen and  (max-width:780px){
+    .signup-container form {
+        width:90%;
+      }
+  }
+  
+  
+  
+  

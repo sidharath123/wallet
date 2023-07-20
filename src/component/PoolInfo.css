@@ -1,0 +1,233 @@
+.info-container {
+  width: 1380px;
+  height: 758px;
+  background-color: #17181b;
+  margin-left: 30px;
+}
+
+.casino-text {
+  margin-top: 20px;
+  font-size: 26px;
+  text-align: left;
+  margin-left: 45px;
+
+  color: #fff;
+  font-family: "Montserrat";
+
+  font-style: normal;
+}
+
+.pool-Info-text {
+  color: #fff;
+  font-size: 24px;
+  text-align: left;
+  margin-left: 45px;
+  margin-top: -20px;
+  font-family: "Montserrat";
+}
+
+.pool-Volume-text {
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 24px;
+  margin-top: -60px;
+  margin-left: 220px;
+}
+
+.pool-info-container {
+  background-color: #202124;
+  width: 625px;
+  height: 500px;
+  flex-shrink: 0;
+  margin-left: 45px;
+  border-radius: 10px;
+}
+
+.pool-volume-container {
+  background-color: #202124;
+  width: 625px;
+  height: 500px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  margin-left: 706px;
+  margin-top: -522px;
+}
+
+.chart-red {
+  width: 317px;
+  height: 50px;
+  flex-shrink: 0;
+  background-color: #fb3d2f;
+  border-radius: 4px;
+  margin-top: -460px;
+  margin-left: 60px;
+}
+
+.chart-yellow {
+  width: 160px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background: #ffc400;
+  margin-left: 388px;
+  margin-top: -49px;
+}
+
+.chart-green {
+  width: 88px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background: #138500;
+  margin-left: 560px;
+  margin-top: -49px;
+}
+
+.red-circle-image {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  margin-left: 62px;
+  margin-top: 40px;
+}
+
+.yellow-circle-image {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  margin-left: 330px;
+  margin-top: -27px;
+}
+.green-circle-image {
+  margin-right: 113px;
+  margin-top: -27px;
+}
+
+.total-platform-size-text {
+  color: #848484;
+  font-family: "Montserrat";
+  font-size: 22px;
+  text-align: left;
+  margin-left: 66px;
+  margin-top: 10px;
+}
+
+.ownership-in-casino-text {
+  color: #848484;
+  font-family: "Montserrat";
+  font-size: 22px;
+  margin-right: 678px;
+  margin-top: -22px;
+}
+
+.betting-contribution-text {
+  color: #848484;
+  font-family: "Montserrat";
+  font-size: 22px;
+  margin-right: 253px;
+  margin-top: -26px;
+}
+.total-dollar {
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 29px;
+  font-style: normal;
+  text-align: left;
+  margin-left: 66px;
+  margin-top: 15px;
+}
+
+.ownership-dollar {
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 29px;
+  font-style: normal;
+  margin-left: -700px;
+  margin-top: -32px;
+}
+
+.betting-contribution {
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 29px;
+  font-style: normal;
+  margin-right: 150px;
+  margin-top: -34px;
+}
+
+.total-percentage {
+  color: #23ff1f;
+  font-family: "Montserrat";
+  font-size: 25px;
+  text-align: left;
+  margin-left: 66px;
+  margin-top: 15px;
+}
+
+.ownership-percentage {
+  color: #23ff1f;
+  font-family: "Montserrat";
+  font-size: 12px;
+  font-size: 25px;
+  margin-top: -30px;
+  margin-left: -697px;
+}
+
+.batting-percentage {
+  color: #23ff1f;
+  font-family: "Montserrat";
+  font-size: 12px;
+  font-size: 25px;
+  margin-right: 163px;
+  margin-top: -30px;
+}
+
+.total-bet-placed-text {
+  color: #848484;
+  font-family: "Montserrat";
+  font-size: 30px;
+  text-align: left;
+  margin-left: 67px;
+  margin-top: 31px;
+}
+
+.total-bet-amount-text {
+  color: #848484;
+  font-family: "Montserrat";
+  font-size: 30px;
+  margin-top: -36px;
+  margin-right: 293px;
+}
+
+.total-bet-number {
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 28px;
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 31px;
+}
+
+.bet-dollar {
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 28px;
+    margin-top: -34px;
+    margin-right: 174px;
+}
+
+.daily-weekly-monthly-container{
+    display: flex;
+    
+
+    display: "flex";
+    flex-direction: row;
+    margin-top: 22px;
+    padding: "20px";
+    gap:20px;
+    justify-content: right;
+    color: #FFF;
+    font-size: 18px;
+    margin-right: 70px;
+    padding-top: 22px;
+    }

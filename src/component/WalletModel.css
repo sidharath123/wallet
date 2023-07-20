@@ -1,0 +1,238 @@
+.wallet-Container {
+  width: 579px;
+  height: 880px;
+  flex-shrink: 0;
+  background-color: #17181b;
+}
+
+.wallet-top-section {
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 22px;
+  font-style: normal;
+  padding: 1px;
+  text-align: left;
+  margin-left: 20px;
+  color: #fff;
+}
+
+.wallet-top-cross-section {
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 22px;
+  font-style: normal;
+  padding: 10px;
+  text-align: left;
+  margin-left: 524px;
+  color: #fff;
+  margin-top: -64px;
+}
+
+.deposite-Layout {
+  width: 259px;
+  height: 52px;
+  margin-left: 20px;
+
+  background-color: #24262b;
+}
+.deposite-text {
+  padding: 12px;
+
+  margin-top: 20px;
+
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-style: normal;
+}
+
+.withdraw-Layout {
+  width: 259px;
+  height: 52px;
+  margin-left: 300px;
+  margin-top: -52px;
+  background-color: #24262b;
+}
+
+.withDraw-text {
+  text-align: center;
+  padding: 12px;
+
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-style: normal;
+}
+
+.deposite-Currency {
+  color: var(--cacaca, #848484);
+  text-align: left;
+  margin-left: 17px;
+  font-size: 14px;
+  letter-spacing: -0.05px;
+}
+
+.deposite-Currency-Layout {
+  background-color: red;
+  width: 531px;
+  height: 400px;
+
+  margin: auto;
+
+  border-radius: 4px;
+  background: #202124;
+  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+}
+
+.balance-text {
+  color: #848484;
+  text-align: right;
+  font-family: "Montserrat";
+  font-size: 27px;
+  font-style: normal;
+  margin-right: 10px;
+  padding: 10px;
+}
+
+.chain-Layout {
+  width: 180px;
+  height: 44px;
+  margin-left: 15px;
+  border-radius: 2px;
+  background: #24262b;
+}
+.chain-text {
+  color: #fff;
+  font-size: 26px;
+  padding: 6px;
+}
+
+.balance-rupees {
+  color: #fff;
+  text-align: right;
+  font-family: "Montserrat";
+  font-size: 26px;
+  margin-left: 392px;
+  margin-top: -32px;
+}
+
+.bnb-text {
+  margin-top: 20px;
+  width: 70px;
+  height: 44px;
+  text-align: center;
+  border-radius: 2px;
+  padding: 10px;
+  color: #fff;
+  background-color: #24262b;
+  font-size: 20px;
+}
+
+.act-text {
+  margin-top: -65px;
+  width: 70px;
+  height: 44px;
+  text-align: center;
+  border-radius: 2px;
+  padding: 10px;
+  color: #fff;
+  background-color: #24262b;
+  font-size: 20px;
+  margin-left: 95px;
+}
+
+.mona-text {
+  margin-top: -65px;
+  width: 70px;
+  height: 44px;
+  text-align: center;
+  border-radius: 2px;
+  padding: 10px;
+  color: #fff;
+  background-color: #24262b;
+  font-size: 20px;
+  margin-left: 191px;
+}
+
+.mst-text {
+  margin-top: -65px;
+  width: 70px;
+  height: 44px;
+  text-align: center;
+  border-radius: 2px;
+  padding: 10px;
+  color: #fff;
+  background-color: #24262b;
+  font-size: 20px;
+  margin-left: 290px;
+}
+
+.msr-text {
+  margin-top: -65px;
+  width: 88px;
+  height: 44px;
+  text-align: center;
+  border-radius: 2px;
+  padding: 10px;
+  color: #fff;
+  background-color: #24262b;
+  font-size: 20px;
+  margin-left: 389px;
+}
+.bnv-text-rupees-section {
+  width: 503px;
+  height: 80px;
+  margin-top: 42px;
+  border-radius: 2px;
+  background-color: #24262b;
+}
+
+.zero-dollar-text {
+  color: #fff;
+
+  text-align: left;
+  margin-left: 15px;
+  font-size: 25px;
+  margin-top: -22px;
+  margin-top: 10px;
+}
+
+.bnb-dollar-text {
+  color: #fff;
+  font-size: 25px;
+  text-align: right;
+  margin-right: 15px;
+  margin-top: -22px;
+}
+
+.usd-text {
+  color: #848484;
+  text-align: right;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.total-balance {
+  color: #fff;
+  font-size: 26px;
+  text-align: left;
+  margin-top: 45px;
+}
+
+.total-balance-text {
+  color: #fff;
+  font-size: 26px;
+  text-align: right;
+  margin-top: -29px;
+}
+
+.confirm-layout {
+  padding: 10px;
+  margin-top: 159px;
+  border-radius: 8px;
+  background-color: #24262b;
+}
+
+.confirm-button {
+color: #FFF;
+text-align: center;
+font-size: 24px;
+}

@@ -1,0 +1,9 @@
+/* .daily-weekly-monthly-container{
+display: flex;
+} */
+.recharts-responsive-container{
+    width: 550px !important;
+    height: 470px !important;
+    margin-left: 30px;
+    
+}

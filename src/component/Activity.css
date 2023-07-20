@@ -1,0 +1,61 @@
+.liquidity-activity-container {
+  /* background-color: red; */
+  width: 90%;
+  height: 600px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 10px;
+  background: var(--second-new, #202124);
+}
+
+.activity-sort-daily-download {
+  color: #fff;
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.activity {
+  margin-left: 30px;
+  margin-top: 25px;
+}
+.sort {
+  margin-left: 835px;
+  margin-top: 25px;
+  width: 105px;
+  height: 47px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #333538;
+  padding: 5px;
+}
+.daily {
+  margin-left: 25px;
+  margin-top: 25px;
+  width: 105px;
+  height: 47px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #333538;
+  padding: 5px;
+}
+
+.download {
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-right: 35px;
+  width: 50px;
+  height: 47px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #333538;
+  padding: 5px;
+}
+.table-container {
+  margin-top: 30px;
+}

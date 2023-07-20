@@ -1,0 +1,39 @@
+.leader-Board-Container{
+    width: 1335px;
+height: 600px;
+
+margin-left: auto;
+margin-right: auto;
+color: #202124B2;
+
+border-radius: 10px;
+/* background: rgba(32, 33, 36, 0.70); */
+background-color: rgba(32, 33, 36, 0.70) ;
+backdrop-filter: blur(150px);
+}
+
+.leader-Board-text{
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 20px;
+    margin-left: 45px;
+    padding: 20px;
+    text-align: left;
+    
+    
+}
+.rank-user-pool-volume-profit-header{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+ background-color:  #333538; 
+padding: 10px;
+font-size: 20px;
+color: #FFFFFF;
+border-radius: 10px;
+margin-left: 35px;
+margin-right: 35px;
+
+}

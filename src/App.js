@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+// import WalletModel from './component/WalletModel';
+// import PoolInfo from './component/PoolInfo';
+// import DoughnutChart from './component/ DoughnutChart ';
+//  import LeaderBoard from './component/LeaderBoard';
+  import LiveBets from './component/LiveBets';
+ import Activity from "./component/Activity";
+import "bootstrap/dist/css/bootstrap.min.css";
+// import SignUpPage from "./component/SignUpPage";
+// import ReactForm from "./component/ReactForm";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <h1>Wallet Deposite</h1> */}
+      {/* <WalletModel /> */}
+      {/* <PoolInfo /> */}
+      {/* < DoughnutChart /> */}
+
+       {/* <LeaderBoard />  */}
+     {/* <LiveBets />  */}
+      <Activity />
+       {/* <ReactForm />  */}
+      {/* <SignUpPage /> */}
     </div>
   );
 }
